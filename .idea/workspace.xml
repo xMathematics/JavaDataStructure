@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424484d3-e0e6-4f4a-8fe9-a75354adc772" name="Changes" comment="" />
+    <list default="true" id="424484d3-e0e6-4f4a-8fe9-a75354adc772" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +47,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "D:/GitHub/JavaDataStructure/src/main/resources",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -52,6 +55,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitHub\JavaDataStructure\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GitHub\JavaDataStructure\src\main\resources" />
     </key>
@@ -65,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667227213121</updated>
       <workItem from="1667227214290" duration="680000" />
-      <workItem from="1667228367654" duration="1404000" />
+      <workItem from="1667228367654" duration="2345000" />
     </task>
     <servers />
   </component>
